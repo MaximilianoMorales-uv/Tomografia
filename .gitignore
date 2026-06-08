@@ -1,0 +1,29 @@
+# Ambientes virtuales y Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Datos médicos y tensores (¡Crucial!)
+*.npy
+*.nii
+*.nii.gz
+data/
+
+# Pesos del modelo de PyTorch
+*.pth
+*.pt
+models/
+
+# Archivos temporales de Colab y Jupyter
+.ipynb_checkpoints/
+
+# Archivos auxiliares de LaTeX (Solo subiremos el .tex, .bib y el PDF final)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
