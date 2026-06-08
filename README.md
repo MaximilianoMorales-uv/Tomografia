@@ -1,6 +1,6 @@
 # Segmentación Automática de Nódulos Pulmonares (BME513)
 
-**Autores:** [Maximiliano Morales]  
+**Autores:** Maximiliano Morales  
 **Institución:** Universidad de Valparaíso  
 
 ## Descripción del Proyecto
