@@ -1,7 +1,7 @@
 # Segmentación Automática de Nódulos Pulmonares (BME513)
 
 **Autores:** Maximiliano Morales  
-**Institución:** Universidad de Valparaíso  
+**Institución:** Universidad de Valparaíso 
 
 ## Descripción del Proyecto
 Este repositorio contiene el código fuente y el informe técnico para la segmentación semántica de nódulos pulmonares en tomografías computarizadas (CT). El sistema utiliza una red neuronal convolucional (arquitectura U-Net) implementada en PyTorch para procesar matrices 2D y detectar la región de interés con alta precisión espacial, mitigando el desbalance de clases biológico mediante la función de pérdida Dice Loss.
